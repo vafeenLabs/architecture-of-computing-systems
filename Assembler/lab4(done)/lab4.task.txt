@@ -1,0 +1,1 @@
+lab3.task with input\output in console 
